@@ -3,3 +3,5 @@ scikit-learn
 pyspark
 matplotlib
 seaborn
+cudf
+cugraph
